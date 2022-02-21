@@ -2,10 +2,7 @@
   "name": "rainbow-console-log",
   "version": "1.0.0",
   "description": "Put some joy into your console.log",
-  "main": "index.ts",
-  "scripts": {
-    "test": "jest"
-  },
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/alumbo/rainbow-console-log.git"
