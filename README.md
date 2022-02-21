@@ -2,19 +2,31 @@
 
 Put some joy into your console.log (web browser console panel)
 
-install
-
+## install ##
 ```
 yarn add rainbow-console-log
 ```
+or
+```
+npm i rainbow-console-log
+```
 
-init
+## init ##
 
 ```
 import rainbowConsoleLog from 'rainbow-console-log';
+
 rainbowConsoleLog();
 ```
 
-[Demo](https://rainbow-console-log.herokuapp.com/)
+## usage ##
+Once inited, you `console.log` function is **overwritten**, no need to change your code :
+```
+console.log('hello joy');
+```
+
+## demo ##
+
+[Live example](https://rainbow-console-log.herokuapp.com/)
 
 [<img src="example/screenshot.png" width="350" alt=""/>](https://rainbow-console-log.herokuapp.com/)
