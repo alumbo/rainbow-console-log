@@ -1,6 +1,6 @@
 {
   "name": "rainbow-console-log",
-  "version": "1.0.5",
+  "version": "1.1.0",
   "description": "Put some joy into your console.log (web browser console panel)",
   "main": "src/index.js",
   "repository": {
