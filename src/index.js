@@ -1,5 +1,5 @@
-export default () => {
-  const originalConsoleLog = window.console.log;
+exports.init = () => {
+  const originalConsoleLog = console.log;
   const colors = [
     "#40a4d8",
     "#33beb8",
