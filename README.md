@@ -17,4 +17,4 @@ rainbowConsoleLog();
 
 [Demo](https://rainbow-console-log.herokuapp.com/)
 
-![Console screenshot](example/screenshot.png =390x)
+[<img src="example/screenshot.png" width="350" alt=""/>](https://rainbow-console-log.herokuapp.com/)
