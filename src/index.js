@@ -1,4 +1,4 @@
-exports.init = () => {
+export default () => {
   const originalConsoleLog = console.log;
   const colors = [
     "#40a4d8",

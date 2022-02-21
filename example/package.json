@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "rainbow-console-log": "^1.0.3"
+    "rainbow-console-log": "^1.0.4"
   }
 }
