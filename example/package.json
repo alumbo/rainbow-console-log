@@ -1,5 +1,5 @@
 {
-  "name": "example",
+  "name": "rainbow-console-log-example",
   "version": "1.0.0",
   "description": "",
   "main": "example.js",
@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "rainbow-console-log": "^1.0.4"
+    "rainbow-console-log": "1.0.5"
   }
 }

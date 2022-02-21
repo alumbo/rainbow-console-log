@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-rainbow-console-log@^1.0.4:
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/rainbow-console-log/-/rainbow-console-log-1.0.4.tgz#c603640d4bf33e5da3d01a98a3658e4f029bf4b5"
-  integrity sha512-eTLvf47lIOr0Ufakrizh6VAKHgS6yYr+N8rizeEq7tuAMLvuaid9gyNjXIS1GS1vjk0cTXRGzro4Uw13GqS54g==
+rainbow-console-log@1.0.5:
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/rainbow-console-log/-/rainbow-console-log-1.0.5.tgz#5bee93efad842416be1f3f9b041e9856f6e18a1e"
+  integrity sha512-ymkTUiaITZ8T6jageYeBQBELAKMMgVExUwVhZ+YM+8fXx9SvjuVWMJczMpdE9s5DHndd31fbEIba3IY7hNDd8w==
