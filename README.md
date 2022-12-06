@@ -27,8 +27,6 @@ console.log('hello joy');
 
 ## demo ##
 
-[Live example](https://rainbow-console-log.herokuapp.com/)
-
 [<img src="example/screenshot.png" width="350" alt=""/>](https://rainbow-console-log.herokuapp.com/)
 
 
